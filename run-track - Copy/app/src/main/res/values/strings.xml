@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tierta Run</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+</resources>
